@@ -29,4 +29,5 @@ tire et diminution de la vie de celui qui prend).
 deux joueurs).
 6. Gérer la collision avec les objets remontant la vie.
 7. Gérer l'explosion des spaceships.
-8. Gérer l'écran de game over (new game, quit, pay to continue).
+8. Gérer la collision des astéroïdes entre eux (si ne ralentit pas trop le jeu); utilisation du'un quadtree pour optimiser la détection des collisions.
+9. Gérer l'écran de game over (new game, quit, pay to continue).
